@@ -1,15 +1,21 @@
 ## About
-Repository referent to my 2014 BEP classes
+Repository referent to the *Basic Education Program* classes (BEP, 2014)
 
 ## Code requirements
-* Microsoft Visual C++ 2010
-* OpenCV
+* C++: Microsoft Visual C++ 2010 + OpenCV
+* Matlab
 
 ## Contents
-1. Colourspace
-2. Histogram
-3. Equalization, Quantization and Threshold
-4. Otsu, Sort and Filters
-5. Edge and Morfology
-6. Geometry
-7. Labeling
+01. Color Space [[Presentation](), [Report]()] [[Matlab]()]
+02. Histogram [[Matlab]()]
+03. Equalization and Quantization
+04. Threshold and Otsu
+05. Sort and Filters
+06. Edge
+07. Morphology
+08. Geometry
+09. Labeling
+10. FFT
+
+## Notes
+Microsoft Visual Studio in Mac
