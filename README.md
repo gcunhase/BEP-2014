@@ -14,5 +14,5 @@ Repository referent to the *Basic Education Program* classes (BEP, 2014)
 06. Edge [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/06-Edge.pdf), [Report](https://github.com/gcunhase/BEP-2014/blob/master/Reports/06-Edge.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/06-Edge)]
 07. Morphology [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/07-Morphology.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/07-Morphology)]
 08. Geometry [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/08-Geometry.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/08-Geometry)]
-09. Labeling [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/09-Labeling)]
-10. FFT [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/10-FFT)]
+09. Labeling [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/09-Labeling.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/09-Labeling)]
+10. FFT [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/10-FFT.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/10-FFT)]
