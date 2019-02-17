@@ -11,8 +11,6 @@
 *.rar
 *.zip
 Projects*
-Reports*
-Presentations*
 
 # Prerequisites
 *.d
