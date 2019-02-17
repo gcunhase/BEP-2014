@@ -1,10 +1,6 @@
 ## About
 Repository referent to the *Basic Education Program* classes (BEP, 2014)
 
-## Code requirements
-* C++: Microsoft Visual C++ 2010 (Windows) + OpenCV
-* Matlab: Mac and Windows
-
 ## Contents
 01. Color Space [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/01-Color%20Space.pdf), [Report](https://github.com/gcunhase/BEP-2014/blob/master/Reports/01-Color%20Space.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/01-Color%20Space)]
 02. Histogram [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/02-Histogram.pdf), [Report](https://github.com/gcunhase/BEP-2014/blob/master/Reports/02_03-Statistics,%20Histogram,%20Equalization%20and%20Quantization.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/02-Histogram)]
@@ -16,3 +12,7 @@ Repository referent to the *Basic Education Program* classes (BEP, 2014)
 08. Geometry [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/08-Geometry.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/08-Geometry)]
 09. Labeling [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/09-Labeling.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/09-Labeling)]
 10. FFT [[Presentation](https://github.com/gcunhase/BEP-2014/blob/master/Presentations/10-FFT.pdf)] [[Matlab](https://github.com/gcunhase/BEP-2014/tree/master/Matlab%20Code/10-FFT)]
+
+## Code requirements
+* C++: Microsoft Visual C++ 2010 (Windows) + OpenCV
+* Matlab: Mac or Windows
